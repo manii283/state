@@ -11,6 +11,8 @@ function App() {
     setData('Nayak')
   };
 
+  console.log('___________________')
+
   return (
     <div className="App">
       <h1>State</h1>
